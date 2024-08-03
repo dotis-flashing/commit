@@ -1,0 +1,15 @@
+
+.no-image-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px; /* Điều chỉnh kích thước */
+  height: 70px; /* Điều chỉnh kích thước */
+  background-color: #f0f0f0; /* Màu nền */
+  color: #888; /* Màu văn bản */
+}
+/* .container {
+  display: flex;
+  justify-content: space-between;
+} */
+
